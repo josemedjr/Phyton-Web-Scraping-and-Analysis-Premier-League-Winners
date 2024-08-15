@@ -1,3 +1,8 @@
+## Web Scraping and Data Analysis on Premier League Winning Teams using Python
+
+
+
+
 ## Problem Description 
 I utilized Beautiful Soup and web scraping techniques in Python to extract data on Premier League winning teams from Wikipedia. After gathering the data, I employed Pandas to structure it into a table and performed data cleaning to enhance its usability. Following this, I conducted a comprehensive analysis and developed visualizations to identify patterns and similarities among the winning teams, focusing on metrics such as goals scored, goals against, wins, losses, and other relevant factors.
 
